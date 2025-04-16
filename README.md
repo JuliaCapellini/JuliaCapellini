@@ -55,7 +55,7 @@
 
 #
 
-<a href="https://https://github.com/JuliaCapellini" title="Julia Capellini>
+<a href="https://https://github.com/JuliaCapellini" title="Julia Capellini">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JuliaCapellini&theme=rose&show_icons=true" />
 </a>
 
