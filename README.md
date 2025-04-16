@@ -44,7 +44,21 @@
   <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="25" alt="vscode logo" />
   <img width="8" />
-
+  <br>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-original.svg" height="25" alt="trello logo" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="25" alt="figma logo" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="25" alt="python logo" />
+  <img width="8" />
 </div>
 
 #
+
+<a href="https://https://github.com/JuliaCapellini" title="Julia Capellini>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JuliaCapellini&theme=rose&show_icons=true" />
+</a>
+
+<a href="https://https://github.com/JuliaCapellini" title="Linguagens mais usadas">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuliaCapellini&theme=rose&layout=compact" />
+</a>
