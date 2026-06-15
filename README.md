@@ -8,9 +8,20 @@
 
 <p align="center">
 
-  Atualmente estudando Análise e Desenvolvimento de Sistemas na Universidade de Marília. Acredito que a busca contínua
-  por conhecimento é a chave para o sucesso pessoal e profissional, por isso busco sempre me aprimorar meus
-  conhecimentos. Atualmente focando meus estudos para a área de Desenvolvimento Web.
+  Graduanda em Análise e Desenvolvimento de Sistemas pela Universidade de Marília (Unimar), atualmente cursando o último ano. Direciono meu desenvolvimento acadêmico e profissional às áreas de Ciência de Dados e Inteligência Artificial. Tenho como foco a aplicação de métodos analíticos para a extração de valor de grandes volumes de informações, buscando apoiar processos de tomada de decisão e a estruturação de inteligência de negócios.
+
+### Projetos e Atuação Atual
+* **Formação Acadêmica:** Último ano de ADS na Unimar, aprofundando estudos em Data Science, IA, SQL Avançado e metodologias de Modelagem de Dados (Kimball).
+* **Atuação Profissional:** Atualmente integro a equipe da LWSA, onde desenvolvo competências práticas voltadas para Client Success.
+* **Objetivos Futuros:** Desenvolvimento de projeto de pesquisa voltado para a área de Ciência da Informação, com foco em entrar no programa de pós-graduação (PPGCI) da UNESP.
+
+
+### Interesses Pessoais
+Fora do ambiente acadêmico e profissional, dedico meu tempo livre a atividades que estimulam a estratégia e a criatividade:
+* Construção e análise de estratégias no **Magic: The Gathering**.
+* Jogos de estratégia e RPG, como **Baldur's Gate 3** e a franquia **Resident Evil**.
+* Leitura e produção de conteúdo literário para plataformas digitais.
+* Tutoria e cuidados com meus dois gatos.
 
   #
 
@@ -20,8 +31,6 @@
 
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:capellini.julia2005@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/juliacapellini/)
-[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)](https://www.instagram.com/jucapellini/)
-
 
 <h3 align="left">My Skills ~</h3>
 
@@ -34,23 +43,24 @@
     alt="javascript logo" /> <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="25"
     alt="bootstrap logo" /> <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="25" alt="csharp logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="25" alt="figma logo" />
   <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="25" alt="postman logo" />
   <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="25" alt="github logo" />
-  <img width="8" />
+  <br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="25" alt="gitlab logo" />
   <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="25" alt="vscode logo" />
-  <img width="8" />
-  <br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-original.svg" height="25" alt="trello logo" />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="25" alt="figma logo" />
   <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="25" alt="python logo" />
   <img width="8" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/mysql/mysql-original.svg" height="25" alt="mysql logo" />
+  <img width="8" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/postgresql/postgresql-original.svg" height="25" alt="postgresql logo" />
+  <img width="8" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/matplotlib/matplotlib-original.svg" height="25" alt="matpotlib logo" />
+  <img width="8" />
+  
 </div>
 
 #
