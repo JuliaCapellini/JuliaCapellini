@@ -12,7 +12,6 @@
 
 ### Projetos e Atuação Atual
 * **Formação Acadêmica:** Último ano de ADS na Unimar, aprofundando estudos em Data Science, IA, SQL Avançado e metodologias de Modelagem de Dados (Kimball).
-* **Atuação Profissional:** Atualmente integro a equipe da LWSA, onde desenvolvo competências práticas voltadas para Client Success.
 * **Objetivos Futuros:** Desenvolvimento de projeto de pesquisa voltado para a área de Ciência da Informação, com foco em entrar no programa de pós-graduação (PPGCI) da UNESP.
 
 
